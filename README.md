@@ -11,20 +11,6 @@ Greetings, fellow wanderers of the digital realm! I'm **Alex**, a **Full-Stack W
 ### 🔮 Arcane Languages & Frameworks:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,nodejs,express,tailwind,react,next,mongodb,postgres,github)](https://skillicons.dev)
 
-[![HTML](https://skillicons.dev/icons?i=html)](https://github.com/yourusername/project-html)
-[![CSS](https://skillicons.dev/icons?i=css)](https://github.com/yourusername/project-css)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://github.com/yourusername/project-js)
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://github.com/yourusername/project-ts)
-[![PHP](https://skillicons.dev/icons?i=php)](https://github.com/yourusername/project-php)
-[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://github.com/yourusername/project-nodejs)
-[![Express.js](https://skillicons.dev/icons?i=express)](https://github.com/yourusername/project-express)
-[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://github.com/yourusername/project-tailwind)
-[![React](https://skillicons.dev/icons?i=react)](https://github.com/yourusername/project-react)
-[![Next.js](https://skillicons.dev/icons?i=next)](https://github.com/yourusername/project-next)
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://github.com/yourusername/project-mongodb)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://github.com/yourusername/project-postgres)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/yourusername)
-
 ## ✨ Why the Alchemy Theme?  
 Just like an alchemist transforms base metals into gold, I **refine raw code** into immersive digital experiences. I believe software development is an ever-evolving craft, requiring curiosity, adaptability, and the ability to turn abstract ideas into reality.  
 
