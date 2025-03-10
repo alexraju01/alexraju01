@@ -2,10 +2,6 @@
 
 Greetings, fellow wanderers of the digital realm! I'm **Alex**, a **Full-Stack Web Developer** with a penchant for transmuting code into seamless user experiences. My craft blends front-end elegance with back-end mastery, forging scalable and performant applications.  
 
-## 🔗 Step into My Arcane Codex  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=web)](https://alexraju.co.uk/)  
-
-
 ## 🏺 The Art of Code Alchemy  
 - ⚗️ Currently concocting **[Kumoverse](https://kumoverse.netlify.app/)**  
 - 📜 Expanding my arcane knowledge in **`Next.js`**  
