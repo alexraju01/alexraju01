@@ -1,12 +1,27 @@
-## Hi there 👋
+# 🧙‍♂️ Code Alchemist Alex | Full-Stack Web Developer
 
-- 🔭 I’m currently working on **[Kumoverse](https://kumoverse.netlify.app/)**
-- 🌱 I’m currently learning `Next.js`
-- 🎥 I recently built a movie website using `TMDB API` → **[Starlight](https://starlight-seven.vercel.app/)**
+Greetings, fellow wanderers of the digital realm! I'm **Alex**, a **Full-Stack Web Developer** with a penchant for transmuting code into seamless user experiences. My craft blends front-end elegance with back-end mastery, forging scalable and performant applications.  
 
-### Code Alchemist
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,nodejs,express,tailwind)](https://skillicons.dev)
+## 🏺 The Art of Code Alchemy  
 
+
+- ⚗️ Currently concocting **[Kumoverse](https://kumoverse.netlify.app/)**  
+- 📜 Expanding my arcane knowledge in **`Next.js`**  
+- 🎥 Forged **[Starlight](https://starlight-seven.vercel.app/)** — a movie discovery platform powered by the **`TMDB API`**  
+
+### 🔮 Arcane Languages & Frameworks:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,nodejs,express,tailwind,react,next,mongodb,postgres)](https://skillicons.dev)
+## ✨ Why the Alchemy Theme?  
+Just like an alchemist transforms base metals into gold, I **refine raw code** into immersive digital experiences. I believe software development is an ever-evolving craft, requiring curiosity, adaptability, and the ability to turn abstract ideas into reality.  
+
+🧪 I thrive in problem-solving, performance optimization, and crafting intuitive UIs. Whether it's designing spellbinding front-end interfaces or engineering robust back-end architectures, I **bring a touch of magic** to every project.  
+
+
+## 📬 Let's Chat!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](#)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](#)  
+[![Portfolio]([https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=web](https://alexraju.co.uk/))](#)  
+```
 
 
 
