@@ -1,9 +1,14 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on [Kumoverse](https://kumoverse.netlify.app/)
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on **[Kumoverse](https://kumoverse.netlify.app/)**
+- 🌱 I’m currently learning `Next.js`
+- 🎥 I recently built a movie website using `TMDB API` → **[Starlight](https://starlight-seven.vercel.app/)**
+
+### Code Alchemist
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,nodejs,express,tailwind)](https://skillicons.dev)
+
+
+
 
 <!--
 **alexraju01/alexraju01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
