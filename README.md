@@ -8,7 +8,7 @@ Greetings, fellow wanderers of the digital realm! I'm **Alex**, a **Full-Stack W
 - 🎥 Forged **[Starlight](https://starlight-seven.vercel.app/)** — a movie discovery platform powered by the **`TMDB API`**  
 - ✨ Step into My Arcane Portfolio **[Alex raju](https://alexraju.co.uk/)** 
 ### 🔮 Arcane Languages & Frameworks:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,nodejs,express,tailwind,react,next,mongodb,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,nodejs,express,tailwind,react,next,mongodb,postgres,github)](https://skillicons.dev)
 ## ✨ Why the Alchemy Theme?  
 Just like an alchemist transforms base metals into gold, I **refine raw code** into immersive digital experiences. I believe software development is an ever-evolving craft, requiring curiosity, adaptability, and the ability to turn abstract ideas into reality.  
 
