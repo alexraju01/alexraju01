@@ -1,4 +1,4 @@
-# 🧙‍♂️ Code Alchemist Alex | Full-Stack Web Developer
+# 🧙‍♂️ Code Alchemist Alex Raju | Full-Stack Web Developer
 
 Greetings, fellow wanderers of the digital realm! I'm **Alex**, a **Full-Stack Web Developer** with a penchant for transmuting code into seamless user experiences. My craft blends front-end elegance with back-end mastery, forging scalable and performant applications.  
 
